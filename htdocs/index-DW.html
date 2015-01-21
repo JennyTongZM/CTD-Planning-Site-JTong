@@ -10,7 +10,7 @@
 	top:22px;
 	width:327px;
 	height:56px;
-	z-index:1;
+	z-index:2;
 }
 #apDiv2 {
 	position:absolute;
@@ -19,6 +19,9 @@
 	width:227px;
 	height:48px;
 	z-index:2;
+}
+#apDiv1 img {
+	z-index: 5;
 }
 #apDiv3 {
 	position:absolute;
@@ -68,12 +71,15 @@
 	color: #FFF;
 }
 #apDiv8 {
-	position:absolute;
+	position:relative;
 	left:1px;
 	top:1px;
 	width:1200px;
 	height:302px;
-	z-index:6;
+	z-index:1;
+	background-image: url(../minimal-hd-wallpapers-33.jpg);
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
 }
 .titleofBox {
 	font-family: "Copperplate Gothic Bold";
@@ -81,6 +87,7 @@
 	font-weight: bold;
 	color: #FFF;
 	position: static;
+	text-align: center;
 }
 #apDiv9 {
 	position:absolute;
@@ -112,7 +119,7 @@
 <body>
 <div id="apDiv1"><img src="../ais.png" width="327" height="56" /></div>
 <div id="apDiv2">Wifi Help</div>
-<div id="apDiv3">Description</div>
+<div class="titleofBox" id="apDiv3">Description</div>
 <div id="apDiv4">
   <div id="login"><img src="../keyboard.jpg" width="330" height="330" /></div>
 </div>
@@ -120,8 +127,8 @@
 <div id="apDiv6"><img src="../ruler.jpg" width="330" height="330" /></div>
 <div id="apDiv7"><img src="../logo.png" width="55" height="55" /></div>
 <div id="apDiv8"></div>
-<div id="apDiv9">Login</div>
-<div id="apDiv10">Rules</div>
-<div id="apDiv11">Rules</div>
+<div class="titleofBox" id="apDiv9">Login</div>
+<div class="titleofBox" id="apDiv10">Rules</div>
+<div class="titleofBox" id="apDiv11">Wifi</div>
 </body>
 </html>
