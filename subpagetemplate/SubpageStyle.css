@@ -1,0 +1,156 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#apDiv1 {
+	position:absolute;
+	left:9px;
+	top:16px;
+	width:721px;
+	height:142px;
+	z-index:1;
+	margin: auto;
+}
+#apDiv2 {
+	position:absolute;
+	left:97px;
+	top:257px;
+	width:105px;
+	height:20px;
+	z-index:2;
+	margin: auto;
+}
+#apDiv3 {
+	position:absolute;
+	left:253px;
+	top:258px;
+	width:55px;
+	height:20px;
+	z-index:3;
+	margin: auto;
+}
+#apDiv4 {
+	position:absolute;
+	left:357px;
+	top:258px;
+	width:131px;
+	height:20px;
+	z-index:4;
+	margin: auto;
+}
+#apDiv5 {
+	position:absolute;
+	left:554px;
+	top:258px;
+	width:105px;
+	height:20px;
+	z-index:5;
+	margin: auto;
+}
+#apDiv6 {
+	position:absolute;
+	left:50px;
+	top:310px;
+	width:172px;
+	height:50px;
+	z-index:6;
+	margin: auto;
+}
+#apDiv7 {
+	position:absolute;
+	left:285px;
+	top:310px;
+	width:175px;
+	height:50px;
+	z-index:7;
+	margin: auto;
+}
+#apDiv8 {
+	position:absolute;
+	left:524px;
+	top:310px;
+	width:178px;
+	height:50px;
+	z-index:8;
+	margin: auto;
+}
+#apDiv9 {
+	position:absolute;
+	left:8px;
+	top:384px;
+	width:712px;
+	height:12px;
+	z-index:9;
+	margin: auto;
+}
+#apDiv10 {
+	position:absolute;
+	left:28px;
+	top:415px;
+	width:700px;
+	height:204px;
+	z-index:10;
+	margin: auto;
+}
+#apDiv11 {
+	position:absolute;
+	left:9px;
+	top:649px;
+	width:713px;
+	height:17px;
+	z-index:11;
+	margin: auto;
+}
+#apDiv12 {
+	position:absolute;
+	left:28px;
+	top:692px;
+	width:700px;
+	height:204px;
+	z-index:12;
+	margin: auto;
+}
+#apDiv13 {
+	position:absolute;
+	left:324px;
+	top:186px;
+	width:106px;
+	height:41px;
+	z-index:13;
+	margin: auto;
+}
+#apDiv14 {
+	position:absolute;
+	left:9px;
+	top:915px;
+	width:713px;
+	height:17px;
+	z-index:14;
+	margin: auto;
+}
+#apDiv15 {
+	position:absolute;
+	left:28px;
+	top:954px;
+	width:700px;
+	height:204px;
+	z-index:15;
+	margin: auto;	
+}
+#apDiv16 {
+	position:absolute;
+	left:9px;
+	top:1173px;
+	width:733px;
+	height:143px;
+	z-index:16;
+	margin: auto;
+}
+.textfont {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+.textfont {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+.textfont {
+	font-family: Georgia, Times New Roman, Times, serif;
+}

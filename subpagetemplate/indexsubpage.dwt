@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link href="SubpageStyle.css" rel="stylesheet" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+</style>
+
+</head>
+
+<body>
+<div id="apDiv1"><img src="Index Subpage/header.png" width="721" height="156" /></div>
+<div id="apDiv2"><img src="Index Subpage/Index Subpage_r2_c3.jpg" width="100" height="22" /></div>
+<div id="apDiv3"><img src="Index Subpage/Index Subpage_r2_c6.jpg" width="53" height="22" /></div>
+<div id="apDiv4"><img src="Index Subpage/Index Subpage_r2_c9.jpg" width="144" height="22" /></div>
+<div id="apDiv5"><img src="Index Subpage/Index Subpage_r2_c12.jpg" width="102" height="22" /></div>
+<div id="apDiv6"><span class="textfont"><img src="Index Subpage/Index Subpage_r4_c2.jpg" width="188" height="52" /></span></div>
+<div id="apDiv7"><span class="textfont"><img src="Index Subpage/Index Subpage_r5_c7.jpg" width="188" height="52" /></span></div>
+<div id="apDiv8"><span class="textfont"><img src="Index Subpage/Index Subpage_r4_c13.jpg" width="188" height="53" /></span></div>
+<div id="apDiv9"><img src="Index Subpage/line.png" width="728" height="16" /></div>
+<div id="apDiv10"><!-- TemplateBeginEditable name="Content Area 1" -->
+  <h3><span class="textfont">How to log in:<br />
+  Enter your assigned username into the username box and enter your assigned password into the password box, then press login</span><span class="textfont"><br />
+  Don't have an assigned username or password? Try your ais student id number. If you're a parent or visitor, click here (hyperlink to username/password generator)</span></h3>
+<!-- TemplateEndEditable --></div>
+<div id="apDiv11"><img src="Index Subpage/line.png" width="728" height="16" /></div>
+<div id="apDiv12"><!-- TemplateBeginEditable name="Content Area 2" -->
+  <h3><span class="textfont">Credentials help (username/password):</span></h3>
+  <h3><span class="textfont"><br />
+    If you forget your password or want to change it, click here(hyperlink to password change or a popup shows up</span>)</h3>
+<!-- TemplateEndEditable --></div>
+<div id="apDiv13"><span class="textfont"><img src="Index Subpage/login.png" width="109" height="46" /></span></div>
+<div id="apDiv14"><img src="Index Subpage/line.png" width="728" height="16" /></div>
+<div id="apDiv15"><!-- TemplateBeginEditable name="Content Area 3" -->
+  <h3 class="textfont">Why can't I log in?</h3>
+  <h3 class="textfont"><br />
+    Try using a different device, most devices should still allow you to log in, but if trouble persists, send an e-mail to (insert help e-mail address)</h3>
+<!-- TemplateEndEditable --></div>
+<div id="apDiv16"><img src="Index Subpage/footer.png" width="735" height="175" /></div>
+</body>
+</html>
