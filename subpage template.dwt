@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link href="../Proto/SubpageStyle.css" rel="stylesheet" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Login</title>
+<style>
+body,td,th {
+	color: #006;
+}
+#apDiv18 {
+	position:absolute;
+	left:601px;
+	top:312px;
+	width:134px;
+	height:47px;
+	z-index:17;
+}
+#apDiv17 {
+	position:absolute;
+	left:7px;
+	top:314px;
+	width:133px;
+	height:46px;
+	z-index:18;
+}
+</style>
+
+</head>
+
+<body>
+<div id="apDiv1"><img src="../Proto/Index Subpage 1/header.png" width="721" height="156" /></div>
+<div class="textfont" id="apDiv17"><a href="../Index Subpage 1.html">Login info</a></div>
+<div id="apDiv2"><a href="https://mail.google.com/" class="textfont">Gmail</a></div>
+<div class="textfont" id="apDiv3"><a href="https://account.network-auth.com/account/reset_account_password" class="textfont">Change password</a></div>
+<div class="textfont" id="apDiv5">
+  <a href="../Index Subpage 2.html" class="textfont">Handbook</a>
+</div>
+<div class="textfont" id="apDiv18"><a href="../Index Subpage 3.html">Tips and Tricks</a></div>
+<div id="apDiv9"><img src="../Proto/Index Subpage 1/line.png" width="728" height="16" /></div>
+<div id="apDiv10">
+  <h3 class="textfont"><!-- TemplateBeginEditable name="textbox1" -->textbox1<!-- TemplateEndEditable --></h3>
+</div>
+<div id="apDiv11"><img src="../Proto/Index Subpage 1/line.png" width="728" height="16" /></div>
+<div id="apDiv4"><img src="../Proto/Index Subpage 1/line.png" alt="separater" width="728" height="16" /></div>
+<div id="apDiv12">
+  <h3 class="textfont"><!-- TemplateBeginEditable name="textbox2" -->textbox2<!-- TemplateEndEditable --></h3>
+</div>
+<div id="apDiv13"><!-- TemplateBeginEditable name="page title" -->page title<!-- TemplateEndEditable --></div>
+<div id="apDiv15">
+  <h3 class="textfont"><!-- TemplateBeginEditable name="textbox3" -->textbox3<!-- TemplateEndEditable --></h3>
+</div>
+<div id="apDiv16"><img src="../Proto/Index Subpage 1/footer.png" width="735" height="175" /></div>
+<img src="../Proto/Index Subpage 1/line.png" width="728" height="16" />
+</body>
+</html>
